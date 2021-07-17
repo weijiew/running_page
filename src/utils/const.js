@@ -55,8 +55,8 @@ export {
 export const AVATAR =
   'https://weijiew.com/img/av.a034bb55.png'; // Temp avatar
 export const NAVS = [
-  { text: 'Blog', link: 'https://blog.weijiew.com' },
-  { text: 'About', link: 'https://weijiew.com' },
+  { text: 'Blog', link: 'https://weijiew.github.io/' },
+  { text: 'About', link: 'https://weijiew.github.io/about/' },
 ];
 
 const nike = 'rgb(224,237,94)'; // if you want change the main color change here src/styles/variables.scss
